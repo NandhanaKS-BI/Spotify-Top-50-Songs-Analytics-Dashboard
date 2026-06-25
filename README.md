@@ -59,7 +59,7 @@ https://github.com/NandhanaKS-BI/Spotify-Top-50-Songs-Analytics-Dashboard/blob/m
 ---
 
 ## 📸 Dashboard Preview
-![Spotify Dashboard](Spotify Dashboard.png)
+![Spotify Dashboard](PASTE_IMAGE_URL_HERE)
 
 
 ---
