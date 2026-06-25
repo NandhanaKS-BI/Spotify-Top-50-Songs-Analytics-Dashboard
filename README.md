@@ -54,12 +54,13 @@ Through this project, I strengthened my skills in:
 ## 📂 Dataset
 
 Spotify Top 50 Global Songs Dataset
+https://github.com/NandhanaKS-BI/Spotify-Top-50-Songs-Analytics-Dashboard/blob/main/spotify-top-50-world.csv
 
 ---
 
 ## 📸 Dashboard Preview
 
-(Add dashboard screenshots here)
+
 
 ---
 
