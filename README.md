@@ -73,6 +73,10 @@ https://github.com/NandhanaKS-BI/Spotify-Top-50-Songs-Analytics-Dashboard/blob/m
 
 ---
 
+## 📂 Acknowledgements
+
+Dashboard inspiration and dataset were obtained from publicly available educational resources and adapted as part of my learning journey.
+
 ## 👩‍💻 Author
 
 Nandhana K.S.
